@@ -3,7 +3,7 @@ Microsoft, Google, and external provider authentication in ASP.NET Core
 
 #1. Microsoft Account external login setup with ASP.NET Core
 
-a.  Create asp.Net Core Web Application \n
+a.  Create asp.Net Core Web Application /n
 b.  Add the following code to the Startup.cs file:
 ```csharp
   services.AddAuthentication().AddMicrosoftAccount(microsoftOptions =>
