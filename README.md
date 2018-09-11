@@ -32,6 +32,7 @@ f. Rename About to Tutorials page (in controller, _layout, and View) and add Aut
             return View();
         }
 ```       
-##  2. Follow the steps on Microsoft Docs to setup Google external login \
+##  2. Follow the steps on Microsoft Docs to setup Google external login
 Link: https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/google-logins?view=aspnetcore-2.1&tabs=aspnetcore2x
 
+### Live Link: https://coreproviders.azurewebsites.net/
